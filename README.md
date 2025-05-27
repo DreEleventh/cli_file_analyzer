@@ -13,8 +13,8 @@ A versatile command-line utility for analyzing text files.
 ## Installation
 Clone the repository or download the script file:
 ``` 
-git clone https://github.com/yourusername/file-analyzer-pro.git
-cd file-analyzer-pro
+git clone https://github.com/DreEleventh/cli_file_analyzer.git
+cd cli_file_analyzer
 ```
 
 ## Usage
